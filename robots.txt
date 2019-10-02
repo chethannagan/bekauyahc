@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nooqueiwa.freeman.one/sitemap.xml
